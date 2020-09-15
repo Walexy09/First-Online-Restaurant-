@@ -5,5 +5,8 @@ It is not the best project, but as a starter, I was quite impressed with it!
 
 <a href="https://codepen.io/walexy09/project/full/ZRNWry"><h1><i style="font-size:30px;color:#ff0000">Visit the Online Restaurant</i></h1></a>
 
-<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1502716762/random_Quote_generator_dertne.jpg" alt="quote generator">
-<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1502716758/gen_isajyr.jpg" alt="quote gen">
+<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165268/food4_c5gzmr.png" alt="food4">
+<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165267/2020-09-15_2_ra2gie.png" alt="pounded_yam">
+<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165267/food3_ierswx.png" alt="food3">
+<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165260/checkout_lhco84.png" alt="checkout">
+<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165262/food2_vpmwdk.png" alt="table_of_food_items">
