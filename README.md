@@ -5,8 +5,21 @@ It is not the best project, but as a starter, I was quite impressed with it!
 
 <a href="https://codepen.io/walexy09/project/full/ZRNWry"><h1><i style="font-size:30px;color:#ff0000">Visit the Online Restaurant</i></h1></a>
 
-<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165268/food4_c5gzmr.png" alt="food4">
-<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165267/2020-09-15_2_ra2gie.png" alt="pounded_yam">
-<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165267/food3_ierswx.png" alt="food3">
-<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165260/checkout_lhco84.png" alt="checkout">
-<img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165262/food2_vpmwdk.png" alt="table_of_food_items">
+
+<table>
+  <tr>
+    <td><img style="text-align:center" src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165268/food4_c5gzmr.png" alt="food4"></td>
+    <td><img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165267/2020-09-15_2_ra2gie.png" alt="pounded_yam"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165267/food3_ierswx.png" alt="food3"></td>
+    <td><img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165260/checkout_lhco84.png" alt="checkout"></td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://res.cloudinary.com/dd5orlb7v/image/upload/v1600165262/food2_vpmwdk.png" alt="table_of_food_items"></td>
+    <td></td>
+  </tr>
+
+</table>
