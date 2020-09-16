@@ -3,7 +3,7 @@ This was the first self project I coded myself as a starter. I did for a local r
 My first self project in 2017. Initially intended writing it fully in Vanilla, but ended up throwing in a little bit of JQuery.
 It is not the best project, but as a starter, I was quite impressed with it!
 
-<a href="https://codepen.io/walexy09/project/full/ZRNWry"><h1><i style="font-size:30px;color:#ff0000">Visit the Online Restaurant</i></h1></a>
+<a href="https://www.zetacomsinc.com/quickchaw.html"><h1><i style="font-size:30px;color:#ff0000">Visit the Online Restaurant</i></h1></a>
 
 
 <table>
